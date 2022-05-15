@@ -7,7 +7,7 @@ The goal of this project is to efficiently and effectively determine key informa
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-[ian-zukowski](Original_VBA_2017.png)   [ian-zukowski](VBA_Challenge_2017.png)
+(ian-zukowski)[Original_VBA_2017.png]   (ian-zukowski)[VBA_Challenge_2017.png]
 
 
 
