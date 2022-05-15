@@ -10,7 +10,7 @@ The goal of this project is to efficiently and effectively determine key informa
 ### Analysis of 2017 Stocks
 
 #### ORIGINAL VBA SCRIPT FOR 2017 STOCKS
-![ian-zukowski](Original_VBA_2017.png)
+![ian-zukowski](Challenge Resources (Module 2)/Original_VBA_2017.png)
 
 
 #### REFACTORED VBA SCRIPT FOR 2017 STOCKS
